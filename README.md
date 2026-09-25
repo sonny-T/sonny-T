@@ -27,13 +27,6 @@ Systems and hardware security, with a focus on:
 
 ---
 
-## Education
-
-- **Ph.D.**, Computer Architecture, Institute of Information Engineering, Chinese Academy of Sciences, 2015 – 2022
-- **B.S.**, Computer Software, Nanchang University, 2011 – 2015
-
----
-
 ## Selected Publications
 
 1. **Linan Tian**, et al. Gadgets Splicing: Dynamic Binary Transformation for Precise Rewriting. **CGO 2022**. First author; Artifact Evaluation passed.
