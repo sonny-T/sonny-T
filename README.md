@@ -1,32 +1,56 @@
-# Hi, I'm TtT 👋
+# Linan Tian (田力楠)
 
-Systems & security researcher at **PCLab** · China
+Postdoctoral Researcher · Peng Cheng Laboratory (鹏城实验室)  
+Network Architecture and Assurance · New Network Research Department
 
-I work on binary analysis, trusted execution, and privacy-preserving systems — mostly around QEMU/LLVM rewriting, TEEs, and confidential computing.
-
-## Focus
-
-- Binary analysis & rewriting (QEMU · LLVM · PANDA)
-- Trusted Execution Environments (TEE) & confidential computing
-- Privacy-preserving / multi-party computation systems
-- Systems programming with C / C++ / Python
-
-## Selected work
-
-| Project | Notes |
-| --- | --- |
-| [grin-qemu](https://github.com/sonny-T/grin-qemu) | QEMU rewrite · binary → LLVM IR |
-| [grin-panda](https://github.com/sonny-T/grin-panda) | LLVM rewrite to ELF |
-| [revgrin](https://github.com/sonny-T/revgrin) | Binary translation / reverse tooling |
-| [qemu_eclipse](https://github.com/sonny-T/qemu_eclipse) | QEMU experiments (shadow stack · syscalls) |
-| [SRAS](https://github.com/sonny-T/SRAS) | Remote attestation related work |
-
-Also contribute under orgs like [M-Party](https://github.com/M-Party) (confidential / double-blind systems) and [GRIN2021](https://github.com/GRIN2021).
-
-## Tech
-
-`C` `C++` `Python` `QEMU` `LLVM` `TEE` `Go`
+**Email:** [sonny_lier@163.com](mailto:sonny_lier@163.com) · **GitHub:** [sonny-T](https://github.com/sonny-T) · China
 
 ---
 
-📍 China · 🏢 PCLab · 🔗 [github.com/sonny-T](https://github.com/sonny-T)
+## Research Interests
+
+Systems and hardware security, with a focus on:
+
+- Trusted Execution Environments (TEE) and confidential computing (Intel SGX / TDX)
+- Decentralized / multi-party trust and remote attestation
+- Dynamic binary analysis and precise binary rewriting
+- Security and reliability of autonomous driving systems
+
+---
+
+## Appointments
+
+| Period | Position | Affiliation |
+| --- | --- | --- |
+| 2025.06 – present | Postdoctoral Researcher | Peng Cheng Laboratory |
+| 2024.05 – 2025.03 | Autonomous Driving Information Security Engineer | Meituan · System Security & Protection |
+| 2022.08 – 2024.03 | Security Software Engineer | Intel China · Platform Security Office |
+
+---
+
+## Education
+
+- **Ph.D.**, Computer Architecture, Institute of Information Engineering, Chinese Academy of Sciences, 2015.09 – 2022.07
+- **B.S.**, Computer Software, Nanchang University, 2011.09 – 2015.07
+
+---
+
+## Selected Publications
+
+1. **Linan Tian**, et al. Gadgets Splicing: Dynamic Binary Transformation for Precise Rewriting. **CGO 2022** (CCF-B). First author; Artifact Evaluation passed.
+
+2. **Linan Tian**, et al. GRIN: Make Rewriting More Precise. **ASSE 2022**. First author.
+
+3. Scheduled Execution-Based Binary Indirect Call Targets Refinement. **ESORICS 2024** (CCF-B). Second author.
+
+4. Zipper Stack: Shadow Stacks Without Shadow. **ESORICS 2020** (CCF-B). Fourth author (QEMU-based implementation and validation).
+
+---
+
+## Skills (brief)
+
+C/C++, x86 assembly, Python; Intel SGX/TDX & DCAP; QEMU; binary rewriting & analysis (LLVM/Clang toolchain); reverse engineering (GDB, IDA Pro).
+
+---
+
+📍 Peng Cheng Laboratory · China
