@@ -39,13 +39,13 @@ Systems and hardware security, with a focus on:
 
 ## Publications
 
-1. Yangyang Shi, **Linan Tian**, Liwei Chen, Yanqi Yang, and Gang Shi. 2024. Scheduled Execution-Based Binary Indirect Call Targets Refinement. In *Computer Security – ESORICS 2024* (LNCS, Vol. 14984). Springer, 3–23. https://doi.org/10.1007/978-3-031-70896-1_1
+1. Yangyang Shi, Linan Tian, Liwei Chen, Yanqi Yang, and Gang Shi. 2024. Scheduled Execution-Based Binary Indirect Call Targets Refinement. In *Computer Security – ESORICS 2024* (LNCS, Vol. 14984). Springer, 3–23. https://doi.org/10.1007/978-3-031-70896-1_1
 
-2. **Linan Tian**, Yangyang Shi, Liwei Chen, Yanqi Yang, and Gang Shi. 2022. Gadgets Splicing: Dynamic Binary Transformation for Precise Rewriting. In *IEEE/ACM International Symposium on Code Generation and Optimization (CGO ’22)*. IEEE, 155–167. https://doi.org/10.1109/CGO53902.2022.9741259
+2. Linan Tian, Yangyang Shi, Liwei Chen, Yanqi Yang, and Gang Shi. 2022. Gadgets Splicing: Dynamic Binary Transformation for Precise Rewriting. In *IEEE/ACM International Symposium on Code Generation and Optimization (CGO ’22)*. IEEE, 155–167. https://doi.org/10.1109/CGO53902.2022.9741259
 
-3. **Linan Tian**, Liwei Chen, Delin Kong, and Gang Shi. 2022. GRIN: Make Rewriting More Precise. In *3rd Asia Service Sciences and Software Engineering Conference (ASSE ’22)*. ACM, 180–188. https://doi.org/10.1145/3523181.3523207
+3. Linan Tian, Liwei Chen, Delin Kong, and Gang Shi. 2022. GRIN: Make Rewriting More Precise. In *3rd Asia Service Sciences and Software Engineering Conference (ASSE ’22)*. ACM, 180–188. https://doi.org/10.1145/3523181.3523207
 
-4. Jinfeng Li, Liwei Chen, Qizhen Xu, **Linan Tian**, Gang Shi, Kai Chen, and Dan Meng. 2020. Zipper Stack: Shadow Stacks Without Shadow. In *Computer Security – ESORICS 2020* (LNCS, Vol. 12308). Springer. https://doi.org/10.1007/978-3-030-58951-6_17
+4. Jinfeng Li, Liwei Chen, Qizhen Xu, Linan Tian, Gang Shi, Kai Chen, and Dan Meng. 2020. Zipper Stack: Shadow Stacks Without Shadow. In *Computer Security – ESORICS 2020* (LNCS, Vol. 12308). Springer. https://doi.org/10.1007/978-3-030-58951-6_17
 
 
 ---
