@@ -36,13 +36,13 @@ Systems and hardware security, with a focus on:
 
 ## Selected Publications
 
-1. **Linan Tian**, et al. Gadgets Splicing: Dynamic Binary Transformation for Precise Rewriting. **CGO 2022** (CCF-B). First author; Artifact Evaluation passed.
+1. **Linan Tian**, et al. Gadgets Splicing: Dynamic Binary Transformation for Precise Rewriting. **CGO 2022**. First author; Artifact Evaluation passed.
 
 2. **Linan Tian**, et al. GRIN: Make Rewriting More Precise. **ASSE 2022**. First author.
 
-3. Scheduled Execution-Based Binary Indirect Call Targets Refinement. **ESORICS 2024** (CCF-B). Second author.
+3. Scheduled Execution-Based Binary Indirect Call Targets Refinement. **ESORICS 2024**. Second author.
 
-4. Zipper Stack: Shadow Stacks Without Shadow. **ESORICS 2020** (CCF-B). Fourth author (QEMU-based implementation and validation).
+4. Zipper Stack: Shadow Stacks Without Shadow. **ESORICS 2020**. Fourth author (QEMU-based implementation and validation).
 
 ---
 
