@@ -22,16 +22,15 @@ Systems and hardware security, with a focus on:
 
 | Period | Position | Affiliation |
 | --- | --- | --- |
-| 2025.06 – present | Postdoctoral Researcher | Peng Cheng Laboratory |
-| 2024.05 – 2025.03 | Autonomous Driving Information Security Engineer | Meituan · System Security & Protection |
-| 2022.08 – 2024.03 | Security Software Engineer | Intel China · Platform Security Office |
+| 2025 – present | Postdoctoral Researcher | Peng Cheng Laboratory |
+| 2022 – 2024 | Security Software Engineer | Intel China · Platform Security Office |
 
 ---
 
 ## Education
 
-- **Ph.D.**, Computer Architecture, Institute of Information Engineering, Chinese Academy of Sciences, 2015.09 – 2022.07
-- **B.S.**, Computer Software, Nanchang University, 2011.09 – 2015.07
+- **Ph.D.**, Computer Architecture, Institute of Information Engineering, Chinese Academy of Sciences, 2015 – 2022
+- **B.S.**, Computer Software, Nanchang University, 2011 – 2015
 
 ---
 
