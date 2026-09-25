@@ -39,9 +39,9 @@ Systems and hardware security, with a focus on:
 
 ## Publications
 
-1. Linan Tian, Yunke Shen, and Zhiqiang Li. 2024. SRAS: Self-governed Remote Attestation Scheme for Multi-party Collaboration. *arXiv preprint* arXiv:2407.03745. https://arxiv.org/abs/2407.03745
+1. Yangyang Shi, Linan Tian, Liwei Chen, Yanqi Yang, and Gang Shi. 2024. Scheduled Execution-Based Binary Indirect Call Targets Refinement. In *Computer Security – ESORICS 2024* (LNCS, Vol. 14984). Springer, 3–23. https://doi.org/10.1007/978-3-031-70896-1_1
 
-2. Yangyang Shi, Linan Tian, Liwei Chen, Yanqi Yang, and Gang Shi. 2024. Scheduled Execution-Based Binary Indirect Call Targets Refinement. In *Computer Security – ESORICS 2024* (LNCS, Vol. 14984). Springer, 3–23. https://doi.org/10.1007/978-3-031-70896-1_1
+2. Linan Tian, Yunke Shen, and Zhiqiang Li. 2024. SRAS: Self-governed Remote Attestation Scheme for Multi-party Collaboration. *arXiv preprint* arXiv:2407.03745. https://arxiv.org/abs/2407.03745
 
 3. Linan Tian, Yangyang Shi, Liwei Chen, Yanqi Yang, and Gang Shi. 2022. Gadgets Splicing: Dynamic Binary Transformation for Precise Rewriting. In *IEEE/ACM International Symposium on Code Generation and Optimization (CGO ’22)*. IEEE, 155–167. https://doi.org/10.1109/CGO53902.2022.9741259
 
