@@ -7,6 +7,16 @@ Network Architecture and Assurance · New Network Research Department
 
 ---
 
+## About
+
+I work on systems and hardware security, with a research background in low-level binary analysis and rewriting, and subsequent industry experience in confidential computing.
+
+During graduate study, I investigated precise binary rewriting based on CPU emulators and the LLVM compiler toolchain, aiming at executable reconstruction of stripped binaries and deepening understanding of complex program execution mechanisms. Related results appeared at venues such as CGO and ESORICS.
+
+At Intel, I worked on remote attestation for Intel SGX and TDX, including attestation workflow development, platform adaptation, and application support with technologies such as Gramine and DCAP, as well as TEE attestation and trust enhancement in multi-cloud settings. These efforts helped shape a systematic view of TEE roots of trust, attestation services, and their integration with real-world systems.
+
+---
+
 ## Research Interests
 
 Systems and hardware security, with a focus on:
